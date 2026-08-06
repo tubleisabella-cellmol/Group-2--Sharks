@@ -60,12 +60,15 @@ A consensus sequence was generated from the aligned COI sequences to summarize t
 The aligned COI sequences were used to construct a phylogenetic tree with the FastTree tool in Galaxy using the maximum-likelihood method. The resulting tree was rooted using **Mobula birostris* as the outgroup to determine the evolutionary relationships among the selected shark species. The generated phylogenetic tree was then visualized in Galaxy, where the branching patterns and branch lengths were examined to interpret genetic divergence and evolutionary relatedness among the taxa.
 
 <img width="720" height="693" alt="057d5f5e-8f68-43d2-b662-f0ee0f9b7792" src="https://github.com/user-attachments/assets/007188e8-5688-4439-a326-fc936069728d" />
+
 **Figure 1.** Galaxy workflow
 
 <img width="550" height="232" alt="762205337_1397514722323714_8332615800813876030_n (1)" src="https://github.com/user-attachments/assets/6d11f02b-e8b5-436f-8f76-6fc18262e9d9" />
+
 **Figure 2.** Consensus sequence
 
 <img width="384" height="360" alt="758706656_1368704648025839_7724202154654968420_n" src="https://github.com/user-attachments/assets/f2460e3b-48e8-4541-a64b-800f15a1960d" />
+
 **Figure 3.** Phylogenetic tree
 
 **Discussion**
