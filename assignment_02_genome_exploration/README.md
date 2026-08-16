@@ -1,4 +1,4 @@
-Assignment o2: Genome Exploration II
+Assignment 02: Genome Exploration II
 
 Species: *Ginglymostoma cirratum* (nurse shark)
 Assembly Accession: GCA_024137785.1
