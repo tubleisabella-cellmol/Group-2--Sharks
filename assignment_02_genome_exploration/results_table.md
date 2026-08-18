@@ -1,4 +1,4 @@
-Assembly Summary
+## Assembly Summary ##
 
 | Metric | Value |
 | :--- | :--- |
@@ -11,7 +11,7 @@ Assembly Summary
 | **L50, if provided** | 38 (Scaffold L50) / 13,662 (Contig L50) |
 | **GC content (%)** | 41.5 % |
 
-Filtering Comparison
+## Filtering Comparison ##
 
 | Metric | Original genome | After ≥10 kb filter |
 | :--- | :--- | :--- |
