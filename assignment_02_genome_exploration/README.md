@@ -1,8 +1,11 @@
 ## Assignment 02: Genome Exploration II ##
 
 Species: *Ginglymostoma cirratum* (nurse shark)
+
 Assembly Accession: GCA_024137785.1
-Objective: Evaluate the assembly quality, contiguity, sequence-length structure, and open reading frames (ORFs) composition of a whole genome using Galaxy bioinformatic tools.
+
+Objective: Evaluate the assembly quality, contiguity, sequence-length structure, and open reading frames (ORFs) composition of a whole 
+genome using Galaxy bioinformatic tools.
 
 ## Tools & Parameters Used ##
 
