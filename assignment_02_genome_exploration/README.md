@@ -14,6 +14,7 @@ genome using Galaxy bioinformatic tools.
 **Filter Sequences By Length**:Filters the FASTA file to include only sequences within specified minimum or maximum length bounds.
 **EMBOSS getorf**:Extracts open reading frames (ORFs) from nucleotide sequences to identify potential protein-coding regions.
 > Minimum size: 300 bp (100 amino acids)
+
 > What to output: Translation of regions between START and STOP codons.
 
 ## Biological Interpretation ##
