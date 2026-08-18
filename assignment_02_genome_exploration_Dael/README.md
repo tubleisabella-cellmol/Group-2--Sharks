@@ -1,13 +1,18 @@
 # Assignment 02: Genome Exploration II
 
 Species: *Rhincodon typus* (whale shark)
+
 Assembly Accession: GCA_021869965.2
+
 Objective: Evaluate the assembly quality, contiguity, sequence-length structure, and open reading frames (ORFs) composition of a whole genome using Galaxy bioinformatic tools.
 
 # Tools & Parameters Used
 FASTA Statistics: Summarizes overall genome assembly metrics, such as total sequence length, base count, GC content, and N50/L50 contiguity values. 
+
 Compute Sequence Length: Measures and lists the precise length (in base pairs) for each individual sequence or contig in a FASTA file. 
+
 Filter Sequences By Length: Filters the FASTA file to include only sequences within specified minimum or maximum length bounds. 
+
 EMBOSS getorf: Extracts open reading frames (ORFs) from nucleotide sequences to identify potential protein-coding regions.
 
 Minimum size: 213 bp
