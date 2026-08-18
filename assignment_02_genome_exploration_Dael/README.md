@@ -40,9 +40,11 @@ The *Rhincodon typus* genome assembly appears relatively well assembled and cont
 # Screenshots
 
 <img width="780" height="375" alt="image" src="https://github.com/user-attachments/assets/16bd1572-716a-4630-98da-ea34d611f744" />
+
 # Figure 1. *Galaxy interface showing a preview of the imported raw genome FASTA dataset (Rhincodon_typus_Genome_Sequences.fasta) containing nucleotide sequences for the whale shark assembly.*
 
 <img width="782" height="398" alt="image" src="https://github.com/user-attachments/assets/a7eaa667-61b6-442a-901c-c27ebb654029" />
+
 # Figure 2. *Galaxy output interface displaying the assembly summary statistics for the original Rhincodon typus genome, detailing metrics such as scaffold N50, total length, sequence count, and GC content.*
 
 # Galaxy Reproducibility and Workflow
